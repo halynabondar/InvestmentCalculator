@@ -2,7 +2,7 @@
 
 ### A simple project built as part of a Udemy course to practice React. 
 
-[//]: # (## Features)
+## Features
 
 [//]: # (- ✅ Feature 1)
 
@@ -14,9 +14,7 @@
 - React
 - Vite
 
-
 ## Installation
-
 
 1. Clone the repository:
 
@@ -28,9 +26,7 @@
    
    npm run dev
 
-
-[//]: # ()
-[//]: # (## Screenshots  )
+## Screenshots  
 
 [//]: # (![Screenshot 1]&#40;link-to-image-1&#41;  )
 

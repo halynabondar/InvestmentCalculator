@@ -12,9 +12,9 @@
 - Vite
 
 ## Usage
-	1.	Enter your initial investment, annual contribution, expected return, and investment duration.
-	2.	View the projected growth of your investment.
-	3.	Adjust values to see how different factors impact the final outcome.
+- Enter your initial investment, annual contribution, expected return, and investment duration.
+- View the projected growth of your investment.
+- Adjust values to see how different factors impact the final outcome.
 
 ## Installation
 
@@ -22,20 +22,22 @@
 
    ```bash
    git clone https://github.com/halynabondar/InvestmentCalculator.git
+   ```
    
 2. Install dependencies:
 
    ```bash
    npm install
+   ```
    
 3.	Start the project:
 
    ```bash
    npm run dev
-
+   ```
 
 ## Screenshots
 
-![Screenshot 1]("")  
+![Screenshot 1](<!-- Add image links here -->)  
 
-![Screenshot 2]("")  
+![Screenshot 2](<!-- Add image links here -->)  

@@ -35,9 +35,10 @@
    npm run dev
 
 
-## Screenshots  
+[//]: # (## Screenshots  )
 
-```md
+[//]: # ()
+[//]: # (```md)
 
 [//]: # (![Screenshot 1]&#40;link-to-image-1&#41;  )
 

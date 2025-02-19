@@ -3,43 +3,39 @@
 ### A simple project built as part of a Udemy course to practice React. 
 
 ## Features
-
-[//]: # (- ✅ Feature 1)
-
-[//]: # (- ✅ Feature 2)
-
-[//]: # (- ✅ Feature 3  )
+- ✅ Calculate investment growth over time
+- ✅ Dynamic input handling
+- ✅ Real-time results update
 
 ## Tech Stack
 - React
 - Vite
+
+## Usage
+	1.	Enter your initial investment, annual contribution, expected return, and investment duration.
+	2.	View the projected growth of your investment.
+	3.	Adjust values to see how different factors impact the final outcome.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-
    git clone https://github.com/halynabondar/InvestmentCalculator.git
    
 2. Install dependencies:
 
    ```bash
-
    npm install
    
 3.	Start the project:
 
    ```bash
-
    npm run dev
 
 
-[//]: # (## Screenshots  )
+## Screenshots
 
-[//]: # ()
-[//]: # (```md)
+![Screenshot 1]("")  
 
-[//]: # (![Screenshot 1]&#40;link-to-image-1&#41;  )
-
-[//]: # (![Screenshot 2]&#40;link-to-image-2&#41;  )
+![Screenshot 2]("")  

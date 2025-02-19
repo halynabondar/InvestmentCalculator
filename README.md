@@ -14,21 +14,20 @@
 - React
 - Vite
 
-[//]: # ()
-[//]: # (## Installation)
 
-[//]: # ()
-[//]: # (1. Clone the repository:)
+## Installation
 
-[//]: # (   ```bash)
 
-[//]: # (   git clone https://github.com/yourusername/project-name.git)
+1. Clone the repository:
 
-[//]: # ()
-[//]: # (npm install)
+   ```bash
 
-[//]: # ()
-[//]: # (npm run dev)
+   git clone https://github.com/yourusername/project-name.git
+
+
+npm install
+
+npm run dev
 
 [//]: # ()
 [//]: # (## Screenshots  )

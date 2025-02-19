@@ -24,9 +24,10 @@
 
    git clone https://github.com/yourusername/project-name.git
 
-
+   ```bash
 npm install
 
+   ```bash
 npm run dev
 
 [//]: # ()

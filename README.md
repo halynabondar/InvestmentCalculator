@@ -38,6 +38,7 @@
 
 ## Screenshots
 
-![Screenshot 1](<!-- Add image links here -->)  
+[//]: # (![Screenshot 1]&#40;<!-- Add image links here -->&#41;  )
 
-![Screenshot 2](<!-- Add image links here -->)  
+[//]: # ()
+[//]: # (![Screenshot 2]&#40;<!-- Add image links here -->&#41;  )

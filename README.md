@@ -23,12 +23,11 @@
    ```bash
 
    git clone https://github.com/yourusername/project-name.git
+   
+   npm install
+   
+   npm run dev
 
-   ```bash
-npm install
-
-   ```bash
-npm run dev
 
 [//]: # ()
 [//]: # (## Screenshots  )

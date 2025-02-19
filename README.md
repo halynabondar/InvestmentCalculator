@@ -22,11 +22,21 @@
 
    git clone https://github.com/halynabondar/InvestmentCalculator.git
    
+2. Install dependencies:
+
+   ```bash
+
    npm install
    
+3.	Start the project:
+
+   ```bash
+
    npm run dev
 
 ## Screenshots  
+
+```md
 
 [//]: # (![Screenshot 1]&#40;link-to-image-1&#41;  )
 

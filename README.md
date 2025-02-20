@@ -35,7 +35,4 @@
 
 ## Screenshots
 
-[//]: # (![Screenshot 1]&#40;<!-- Add image links here -->&#41;  )
-
-[//]: # ()
-[//]: # (![Screenshot 2]&#40;<!-- Add image links here -->&#41;  )
+![investment-calculator.png](src/assets/investment-calculator.png)

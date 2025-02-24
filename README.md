@@ -1,11 +1,11 @@
 # Investment Calculator
 
-### A simple project built as part of a Udemy course to practice React. 
+A simple project built as part of a Udemy course to practice React. 
 
 ## Features
-- ✅ Calculate investment growth over time
-- ✅ Dynamic input handling
-- ✅ Real-time results update
+- Calculate investment growth over time
+- Dynamic input handling
+- Real-time results update
 
 ## Tech Stack
 - React

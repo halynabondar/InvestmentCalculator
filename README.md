@@ -1,22 +1,25 @@
-# Investment Calculator
+# 📝 Investment Calculator
 
 A simple project built as part of a Udemy course to practice React. 
 
-## Features
+## 🚀 Features
+
 - Calculate investment growth over time
 - Dynamic input handling
 - Real-time results update
 
-## Tech Stack
+## 🛠️ Technologies Used
+
 - React
 - Vite
 
 ## Usage
+
 - Enter your initial investment, annual contribution, expected return, and investment duration.
 - View the projected growth of your investment.
 - Adjust values to see how different factors impact the final outcome.
 
-## Installation
+## 🏗️ How to Run the Project
 
 1. Clone the repository:
    ```bash
